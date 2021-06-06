@@ -9,7 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/Images/bg.jpg);
+    background-image: url(Images/bg.jpg);
     min-width: 100%;
     min-height: 100vh;
     background-position: center;
